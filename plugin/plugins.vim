@@ -18,7 +18,7 @@ Plug 'nvim-lua/plenary.nvim'
 
 " tmux
 Plug 'benmills/vimux'
-Plug 'christomomey/vim-tmux-navigator'
+" Plug 'christomomey/vim-tmux-navigator'
 
 " Icons
 Plug 'kyazdani42/nvim-web-devicons'

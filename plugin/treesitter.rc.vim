@@ -17,7 +17,12 @@ require'nvim-treesitter.configs'.setup {
     "json",
     "yaml",
     "html",
-    "scss"
+    "http",
+    "scss",
+    "go",
+    "typescript",
+    "javascript",
+    "python",
   },
 }
 
